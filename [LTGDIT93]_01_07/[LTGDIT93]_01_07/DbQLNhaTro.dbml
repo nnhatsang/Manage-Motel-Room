@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLNhaTro" Class="DbQLNhaTroDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=QLNhaTro;Integrated Security=True" SettingsObjectName="_LTGDIT93__01_07.Properties.Settings" SettingsPropertyName="QLNhaTroConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ACCOUNT" Member="ACCOUNTs">
+    <Type Name="ACCOUNT">
+      <Column Name="UserName" Type="System.String" DbType="Char(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="PassWord" Type="System.String" DbType="Char(200)" CanBeNull="true" />
+      <Association Name="ACCOUNT_KhachHang" Member="KhachHangs" ThisKey="UserName" OtherKey="UserName" Type="KhachHang" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Phong" Member="Phongs">
+    <Type Name="Phong">
+      <Column Name="MaPhong" Type="System.String" DbType="Char(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaNhaTro" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="DienTich" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="GiaThue" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="TinhTrang" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MoTa" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Anh" Type="System.Data.Linq.Binary" DbType="Image" CanBeNull="true" UpdateCheck="Never" />
+      <Association Name="Phong_PhieuThuePhong" Member="PhieuThuePhongs" ThisKey="MaPhong" OtherKey="MaPhong" Type="PhieuThuePhong" />
+      <Association Name="NhaTro_Phong" Member="NhaTro" ThisKey="MaNhaTro" OtherKey="MaNhaTro" Type="NhaTro" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.KhachHang" Member="KhachHangs">
+    <Type Name="KhachHang">
+      <Column Name="MaKH" Type="System.String" DbType="Char(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenKH" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="CMND" Type="System.String" DbType="Char(15) NOT NULL" CanBeNull="false" />
+      <Column Name="SDT" Type="System.String" DbType="Char(15) NOT NULL" CanBeNull="false" />
+      <Column Name="DiaChi" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="UserName" Type="System.String" DbType="Char(20)" CanBeNull="true" />
+      <Column Name="GioiTinh" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Avatar" Type="System.Data.Linq.Binary" DbType="Image" CanBeNull="true" UpdateCheck="Never" />
+      <Association Name="KhachHang_NhaTro" Member="NhaTros" ThisKey="MaKH" OtherKey="MaChuNha" Type="NhaTro" />
+      <Association Name="KhachHang_PhieuThuePhong" Member="PhieuThuePhongs" ThisKey="MaKH" OtherKey="MaKH" Type="PhieuThuePhong" />
+      <Association Name="ACCOUNT_KhachHang" Member="ACCOUNT" ThisKey="UserName" OtherKey="UserName" Type="ACCOUNT" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.NhaTro" Member="NhaTros">
+    <Type Name="NhaTro">
+      <Column Name="MaNhaTro" Type="System.String" DbType="Char(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaChuNha" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="DiaChi" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="SoLuongPhong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TinhTrang" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Quan" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="NhaTro_Phong" Member="Phongs" ThisKey="MaNhaTro" OtherKey="MaNhaTro" Type="Phong" />
+      <Association Name="KhachHang_NhaTro" Member="KhachHang" ThisKey="MaChuNha" OtherKey="MaKH" Type="KhachHang" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PhieuThuePhong" Member="PhieuThuePhongs">
+    <Type Name="PhieuThuePhong">
+      <Column Name="MaPhieu" Type="System.String" DbType="Char(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaKH" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+      <Column Name="MaPhong" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+      <Column Name="NgapLapPhieu" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="NgayThue" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="NgayKetThuc" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="TinhTrang" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="KhachHang_PhieuThuePhong" Member="KhachHang" ThisKey="MaKH" OtherKey="MaKH" Type="KhachHang" IsForeignKey="true" />
+      <Association Name="Phong_PhieuThuePhong" Member="Phong" ThisKey="MaPhong" OtherKey="MaPhong" Type="Phong" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.ListPhongBoLoc" Method="ListPhongBoLoc">
+    <Parameter Name="gia" Type="System.Decimal" DbType="Decimal(18,0)" />
+    <Parameter Name="tenQuan" Type="System.String" DbType="NVarChar(100)" />
+    <Parameter Name="dt" Type="System.Int32" DbType="Int" />
+    <Parameter Name="maKH" Type="System.String" DbType="Char(10)" />
+    <ElementType Name="ListPhongBoLocResult">
+      <Column Name="MaPhong" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+      <Column Name="[Địa chỉ]" Member="Địa_chỉ" Type="System.String" DbType="NVarChar(152)" CanBeNull="true" />
+      <Column Name="DienTich" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="GiaThue" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.duyetYeuCau" Method="duyetYeuCau">
+    <Parameter Name="maPhieu" Type="System.String" DbType="Char(10)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pr_XoaPhong" Method="pr_XoaPhong">
+    <Parameter Name="maPhong" Type="System.String" DbType="Char(10)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.getListYeuCau" Method="getListYeuCau">
+    <Parameter Name="maKH" Type="System.String" DbType="Char(10)" />
+    <ElementType Name="getListYeuCauResult">
+      <Column Name="MaPhieu" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+      <Column Name="MaKH" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+      <Column Name="MaPhong" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+      <Column Name="NgapLapPhieu" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="NgayThue" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="NgayKetThuc" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="TinhTrang" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.GetThongTinChuNha" Method="GetThongTinChuNha">
+    <Parameter Name="maPhieu" Type="System.String" DbType="Char(10)" />
+    <ElementType Name="GetThongTinChuNhaResult">
+      <Column Name="TenKH" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MaKH" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+      <Column Name="CMND" Type="System.String" DbType="Char(15) NOT NULL" CanBeNull="false" />
+      <Column Name="SDT" Type="System.String" DbType="Char(15) NOT NULL" CanBeNull="false" />
+      <Column Name="DiaChi" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.pr_XoaNhaTro" Method="pr_XoaNhaTro">
+    <Parameter Name="maNT" Type="System.String" DbType="Char(10)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.pr_LichSuThueTro" Method="pr_LichSuThueTro">
+    <Parameter Name="maKH" Type="System.String" DbType="Char(10)" />
+    <ElementType Name="pr_LichSuThueTroResult">
+      <Column Name="MaPhong" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+      <Column Name="[Địa chỉ]" Member="Địa_chỉ" Type="System.String" DbType="NVarChar(152)" CanBeNull="true" />
+      <Column Name="NgayThue" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="NgayKetThuc" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="TinhTrang" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MaPhieu" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.GetThongTinPhieuThue" Method="GetThongTinPhieuThue">
+    <Parameter Name="maPhieu" Type="System.String" DbType="Char(10)" />
+    <ElementType Name="GetThongTinPhieuThueResult">
+      <Column Name="TenKH" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MaKH" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+      <Column Name="CMND" Type="System.String" DbType="Char(15) NOT NULL" CanBeNull="false" />
+      <Column Name="SDT" Type="System.String" DbType="Char(15) NOT NULL" CanBeNull="false" />
+      <Column Name="DiaChi" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="MaPhong" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+      <Column Name="DienTich" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="GiaThue" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="NgapLapPhieu" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="NgayThue" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="DiaChi1" Type="System.String" DbType="NVarChar(152)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.Max_NhaTro" Method="Max_NhaTro" IsComposable="true">
+    <Return Type="System.String" />
+  </Function>
+  <Function Name="dbo.Max_Phong" Method="Max_Phong" IsComposable="true">
+    <Return Type="System.String" />
+  </Function>
+  <Function Name="dbo.Max_PhieuThue" Method="Max_PhieuThue" IsComposable="true">
+    <Return Type="System.String" />
+  </Function>
+  <Function Name="dbo.Max_KH" Method="Max_KH" IsComposable="true">
+    <Return Type="System.String" />
+  </Function>
+  <Function Name="dbo.getMaPhieu" Method="getMaPhieu">
+    <Parameter Name="maPhong" Type="System.String" DbType="Char(10)" />
+    <ElementType Name="getMaPhieuResult">
+      <Column Name="MaPhieu" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+</Database>

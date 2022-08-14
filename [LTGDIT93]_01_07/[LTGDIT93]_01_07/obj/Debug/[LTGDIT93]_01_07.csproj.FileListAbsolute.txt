@@ -1,0 +1,202 @@
+C:\Users\nhats\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.csproj.AssemblyReference.cache
+C:\Users\nhats\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.Properties.Resources.resources
+C:\Users\nhats\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.csproj.GenerateResource.cache
+C:\Users\nhats\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.csproj.CoreCompileInputs.cache
+C:\Users\nhats\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\[LTGDIT93]_01_07.exe.config
+C:\Users\nhats\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\[LTGDIT93]_01_07.exe
+C:\Users\nhats\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\[LTGDIT93]_01_07.pdb
+C:\Users\nhats\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\Guna.UI2.dll
+C:\Users\nhats\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.csproj.CopyComplete
+C:\Users\nhats\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.exe
+C:\Users\nhats\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.pdb
+C:\Users\nhats\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FDangNhap.resources
+C:\Users\nhats\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FDoiMK.resources
+C:\Users\nhats\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.GUI.FTrangChu.resources
+C:\Users\nhats\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FDangKyKhachHang.resources
+C:\Users\nhats\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.GUI.UCThongTinKhachHang.resources
+C:\Users\nhats\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.UCThemTro.resources
+C:\Users\nhats\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FThemTro.resources
+C:\Users\nhats\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FXemChiTietTro.resources
+C:\Users\nhats\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FYeuCauThueTro.resources
+C:\Users\nhats\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FThemPhong.resources
+C:\Users\nhats\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.UCTimTro.resources
+C:\Users\nhats\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FChiTietPhong.resources
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.csproj.AssemblyReference.cache
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FChiTietPhong.resources
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FChiTietPhongThue.resources
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FDangKyKhachHang.resources
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FDangNhap.resources
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FDoiMK.resources
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FThemPhong.resources
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FThemTro.resources
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.GUI.FTrangChu.resources
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FXemChiTietTro.resources
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FYeuCauThuePhong.resources
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.Properties.Resources.resources
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.UCThemTro.resources
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.UCTimTro.resources
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.GUI.UCThongTinKhachHang.resources
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.csproj.GenerateResource.cache
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.csproj.CoreCompileInputs.cache
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.exe
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.pdb
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\[LTGDIT93]_01_07.exe.config
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\[LTGDIT93]_01_07.exe
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\[LTGDIT93]_01_07.pdb
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\Guna.UI2.dll
+C:\Users\ANHMINH\Desktop\New folder\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.csproj.CopyComplete
+D:\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.csproj.AssemblyReference.cache
+D:\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FChiTietPhong.resources
+D:\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FChiTietPhongThue.resources
+D:\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FDangKyKhachHang.resources
+D:\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FDangNhap.resources
+D:\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FDoiMK.resources
+D:\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FThemPhong.resources
+D:\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FThemTro.resources
+D:\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.GUI.FTrangChu.resources
+D:\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FXemChiTietTro.resources
+D:\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FYeuCauThuePhong.resources
+D:\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.Properties.Resources.resources
+D:\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.UCThemTro.resources
+D:\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.UCTimTro.resources
+D:\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.GUI.UCThongTinKhachHang.resources
+D:\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.csproj.GenerateResource.cache
+D:\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.csproj.CoreCompileInputs.cache
+D:\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.exe
+D:\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.pdb
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.csprojAssemblyReference.cache
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FChiTietPhong.resources
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FChiTietPhongThue.resources
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FDangKyKhachHang.resources
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FDangNhap.resources
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FDoiMK.resources
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FThemPhong.resources
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FThemTro.resources
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.GUI.FTrangChu.resources
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FXemChiTietTro.resources
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FYeuCauThuePhong.resources
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.Properties.Resources.resources
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.UCThemTro.resources
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.UCTimTro.resources
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.GUI.UCThongTinKhachHang.resources
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.csproj.GenerateResource.cache
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.csproj.CoreCompileInputs.cache
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.exe
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.pdb
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\[LTGDIT93]_01_07.exe.config
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\[LTGDIT93]_01_07.exe
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\[LTGDIT93]_01_07.pdb
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\Guna.UI2.dll
+N:\Lập trình giao diện\BaiTapLon\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.csproj.CopyComplete
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\[LTGDIT93]_01_07.exe.config
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\[LTGDIT93]_01_07.exe
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\[LTGDIT93]_01_07.pdb
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\Guna.UI2.dll
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.csproj.AssemblyReference.cache
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FChiTietPhong.resources
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FChiTietPhongThue.resources
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FDangKyKhachHang.resources
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FDangNhap.resources
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FDoiMK.resources
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FThemPhong.resources
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FThemTro.resources
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.GUI.FTrangChu.resources
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FXemChiTietTro.resources
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FYeuCauThuePhong.resources
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.Properties.Resources.resources
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.UCThemTro.resources
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.UCTimTro.resources
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.GUI.UCThongTinKhachHang.resources
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.csproj.GenerateResource.cache
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.csproj.CoreCompileInputs.cache
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.csproj.CopyComplete
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.exe
+C:\Users\ANHMINH\Desktop\New folder\formLen\QLTro\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.pdb
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\[LTGDIT93]_01_07.exe.config
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\[LTGDIT93]_01_07.exe
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\[LTGDIT93]_01_07.pdb
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\Guna.UI2.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.csproj.AssemblyReference.cache
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FChiTietPhong.resources
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FChiTietPhongThue.resources
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FDangKyKhachHang.resources
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FDangNhap.resources
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FDoiMK.resources
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FThemPhong.resources
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FThemTro.resources
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.GUI.FTrangChu.resources
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FXemChiTietTro.resources
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FYeuCauThuePhong.resources
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.Properties.Resources.resources
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.UCThemTro.resources
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.UCTimTro.resources
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.GUI.UCThongTinKhachHang.resources
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.csproj.GenerateResource.cache
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.csproj.CoreCompileInputs.cache
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.csproj.CopyComplete
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.exe
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\[LTGDIT93]_01_07.pdb
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\EnvDTE.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\stdole.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FReport.resources
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\RdlCompile.cache
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\RdlCompile.compiled
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FThongTinKH.resources
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FLichSuThueTro.resources
+C:\Users\ANHMINH\Desktop\[LTGDIT93]_01_07\[LTGDIT93]_01_07\obj\Debug\_LTGDIT93__01_07.FThongBao.resources

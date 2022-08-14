@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1750ECD4-2299-46DB-878E-4435D5ABD3ED}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>_LTGDIT93__01_07</RootNamespace>
+    <AssemblyName>[LTGDIT93]_01_07</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.2.8, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.2.8\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BUS\BUS_ACCOUNT.cs" />
+    <Compile Include="BUS\BUS_KhachHang.cs" />
+    <Compile Include="BUS\BUS_PhieuThuePhong.cs" />
+    <Compile Include="BUS\BUS_Phong.cs" />
+    <Compile Include="BUS\BUS_NhaTro.cs" />
+    <Compile Include="DAO\DAO_ACCOUNT.cs" />
+    <Compile Include="DAO\DAO_KhachHang.cs" />
+    <Compile Include="DAO\DAO_PhieuThuePhong.cs" />
+    <Compile Include="DAO\DAO_Phong.cs" />
+    <Compile Include="DAO\DAO_NhaTro.cs" />
+    <Compile Include="DbQLNhaTro.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DbQLNhaTro.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FChiTietPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FChiTietPhong.Designer.cs">
+      <DependentUpon>FChiTietPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FChiTietPhongThue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FChiTietPhongThue.Designer.cs">
+      <DependentUpon>FChiTietPhongThue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FDangKyKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FDangKyKhachHang.Designer.cs">
+      <DependentUpon>FDangKyKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FDangNhap.Designer.cs">
+      <DependentUpon>FDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FDoiMK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FDoiMK.Designer.cs">
+      <DependentUpon>FDoiMK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FLichSuThueTro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FLichSuThueTro.Designer.cs">
+      <DependentUpon>FLichSuThueTro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FThongBao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FThongBao.Designer.cs">
+      <DependentUpon>FThongBao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FThongTinKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FThongTinKH.Designer.cs">
+      <DependentUpon>FThongTinKH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FReport.Designer.cs">
+      <DependentUpon>FReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FThemPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FThemPhong.Designer.cs">
+      <DependentUpon>FThemPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FThemTro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FThemTro.Designer.cs">
+      <DependentUpon>FThemTro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FTrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FTrangChu.Designer.cs">
+      <DependentUpon>FTrangChu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FXemChiTietTro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FXemChiTietTro.Designer.cs">
+      <DependentUpon>FXemChiTietTro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FYeuCauThuePhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FYeuCauThuePhong.Designer.cs">
+      <DependentUpon>FYeuCauThuePhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QLNhaTroDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLNhaTroDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLNhaTroDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLNhaTroDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLNhaTroDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLNhaTroDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="UserControl\UCThemTro.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\UCThemTro.Designer.cs">
+      <DependentUpon>UCThemTro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\UCTimTro.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\UCTimTro.Designer.cs">
+      <DependentUpon>UCTimTro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\UCThongTinKhachHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\UCThongTinKhachHang.Designer.cs">
+      <DependentUpon>UCThongTinKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUI\FChiTietPhong.resx">
+      <DependentUpon>FChiTietPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FChiTietPhongThue.resx">
+      <DependentUpon>FChiTietPhongThue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FDangKyKhachHang.resx">
+      <DependentUpon>FDangKyKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FDangNhap.resx">
+      <DependentUpon>FDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FDoiMK.resx">
+      <DependentUpon>FDoiMK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FLichSuThueTro.resx">
+      <DependentUpon>FLichSuThueTro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FThongBao.resx">
+      <DependentUpon>FThongBao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FThongTinKH.resx">
+      <DependentUpon>FThongTinKH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FReport.resx">
+      <DependentUpon>FReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FThemPhong.resx">
+      <DependentUpon>FThemPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FThemTro.resx">
+      <DependentUpon>FThemTro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FTrangChu.resx">
+      <DependentUpon>FTrangChu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FXemChiTietTro.resx">
+      <DependentUpon>FXemChiTietTro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FYeuCauThuePhong.resx">
+      <DependentUpon>FYeuCauThuePhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReportYeuCau.rdlc" />
+    <EmbeddedResource Include="UserControl\UCThemTro.resx">
+      <DependentUpon>UCThemTro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\UCTimTro.resx">
+      <DependentUpon>UCTimTro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\UCThongTinKhachHang.resx">
+      <DependentUpon>UCThongTinKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DbQLNhaTro.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DbQLNhaTro.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DbQLNhaTro.dbml.layout">
+      <DependentUpon>DbQLNhaTro.dbml</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="QLNhaTroDataSet.xsc">
+      <DependentUpon>QLNhaTroDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QLNhaTroDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLNhaTroDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLNhaTroDataSet.xss">
+      <DependentUpon>QLNhaTroDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QLNhaTroDataSet1.xsc">
+      <DependentUpon>QLNhaTroDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QLNhaTroDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLNhaTroDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLNhaTroDataSet1.xss">
+      <DependentUpon>QLNhaTroDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QLNhaTroDataSet2.xsc">
+      <DependentUpon>QLNhaTroDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="QLNhaTroDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLNhaTroDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLNhaTroDataSet2.xss">
+      <DependentUpon>QLNhaTroDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\accountD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accountS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logout_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoutD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\more_details.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pc-wallpapers-fhd-04-05-2020-TECHRUM %2814%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\request.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tb.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TìmtroD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TìmtroDThue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TìmtroS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TìmtroSThue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\md_5aa7b9f67f2b3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
